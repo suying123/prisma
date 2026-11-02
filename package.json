@@ -1,0 +1,21 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "personAdd": "tsx src/personAdd.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/adapter-mariadb": "^7.10.1",
+    "@prisma/client": "^7.10.1"
+  },
+  "devDependencies": {
+    "dotenv": "^18.0.9",
+    "prisma": "7.10.1",
+    "tsx": "^4.23.15"
+  }
+}

@@ -1,0 +1,9 @@
+# compiled output
+/node_modules
+
+# Prisma generated client
+/generated
+
+# dotenv environment variable files
+# .env
+
